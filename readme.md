@@ -45,3 +45,6 @@ setst
 setst
 setst
 astest
+tests
+tests
+tests
