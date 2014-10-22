@@ -26,3 +26,4 @@ setestes
 szetztez
 ERszetsezt
 zestesztse
+setst
